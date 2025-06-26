@@ -157,4 +157,3 @@ You'll see a professional menu system:
 <div align="center">
   <sub>Crafted with ❤️ by <a href="https://t.me/TradeWithQadeer">Abdul Qadeer Gabol</a></sub>
 </div>
-```
