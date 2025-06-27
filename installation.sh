@@ -243,3 +243,4 @@ fi
 
 # Cool exit
 echo -e "\n${PURPLE}✨ Thanks for using the installer! ✨${NC}"
+clear
